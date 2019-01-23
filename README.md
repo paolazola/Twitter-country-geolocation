@@ -15,4 +15,9 @@ From the original tweets we extracted only the nouns and thus the dataset report
 
 The dataset does not provide users account names for privacy reasons.
 
+The dataset is stored as python list with .pickle extension. To load it:
+
+import pickle 
+pickle_in = open("country_geolocation.pickle","rb")
+country_location = pickle.load(pickle_in)
 
