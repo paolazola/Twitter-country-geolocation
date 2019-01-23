@@ -10,7 +10,7 @@ From the original tweets we extracted only the nouns and thus the dataset report
 1. List of nouns for each user,
 2. the address provided by the user in his/her Twitter account (metadata information),
 3. latidute and longitude of the address,
-4. gound truth country.
+4. ground truth country.
 
 
 The dataset does not provide users account names for privacy reasons.
